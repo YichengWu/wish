@@ -4,7 +4,7 @@
 
 This repository contains Matlab implementation for the Nature LSA2019 paper 
 
-*WISH: wavefront imaging sensor with high resolution* by [Yicheng Wu](http://yicheng.rice.edu), [Manoj Sharma](https://sites.google.com/view/manojsharmaresearch/home), and [Ashok Veeraraghavan](http://computationalimaging.rice.edu/team/ashok-veeraraghavan/).
+**WISH: wavefront imaging sensor with high resolution** by [Yicheng Wu](http://yicheng.rice.edu), [Manoj Sharma](https://sites.google.com/view/manojsharmaresearch/home), and [Ashok Veeraraghavan](http://computationalimaging.rice.edu/team/ashok-veeraraghavan/).
 
 ![WISH](/WISH_illustration.png)
 
@@ -13,7 +13,7 @@ This repository contains Matlab implementation for the Nature LSA2019 paper
 
 Please clone this repo. The main file is named as `WISH.m`.
 
-If you want to use our generated SLM patterns, Please download it from [Google Drive](https://drive.google.com/file/d/1I7U96ATbZ9xBhGmgp4JwlNB9Xv28bCd-/view?usp=sharing).
+If you want to use our generated SLM patterns, please download them from [Google Drive](https://drive.google.com/file/d/1I7U96ATbZ9xBhGmgp4JwlNB9Xv28bCd-/view?usp=sharing).
 
 
 ## Citation
@@ -30,5 +30,7 @@ If you find this code useful, please cite our papers.
   publisher={Nature Publishing Group}
 }
 ```
+
+
 ## Contributions
 If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Yicheng Wu (yicheng.wu@rice.edu).
