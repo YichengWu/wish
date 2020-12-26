@@ -1,6 +1,6 @@
 # WISH
 
-### [Project](http://yicheng.rice.edu/wish/) | [Paper](https://www.nature.com/articles/s41377-019-0154-x)
+### [Project](https://yichengwu.github.io/WISH/) | [Paper](https://www.nature.com/articles/s41377-019-0154-x)
 
 This repository contains Matlab implementation for the Nature LSA2019 paper 
 
@@ -37,4 +37,4 @@ If you find this code useful, please cite our papers.
 
 
 ## Contributions
-If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Yicheng Wu (yicheng.wu@rice.edu).
+If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Yicheng Wu (wuyichengg@gmail.edu).
