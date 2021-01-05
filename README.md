@@ -4,7 +4,7 @@
 
 This repository contains Matlab implementation for the Nature LSA2019 paper 
 
-**WISH: wavefront imaging sensor with high resolution** by [Yicheng Wu](http://yicheng.rice.edu), [Manoj Sharma](https://sites.google.com/view/manojsharmaresearch/home), and [Ashok Veeraraghavan](http://computationalimaging.rice.edu/team/ashok-veeraraghavan/).
+**WISH: wavefront imaging sensor with high resolution** by [Yicheng Wu](https://yichengwu.github.io), [Manoj Sharma](https://sites.google.com/view/manojsharmaresearch/home), and [Ashok Veeraraghavan](http://computationalimaging.rice.edu/team/ashok-veeraraghavan/).
 
 The python implementation can be found [here](https://github.com/taladjidi/WISHpy).
 
@@ -15,7 +15,7 @@ The python implementation can be found [here](https://github.com/taladjidi/WISHp
 
 Please clone this repo. The main file is named as `WISH.m`.
 
-If you want to use our generated SLM patterns, please download them from [Google Drive](https://drive.google.com/file/d/1I7U96ATbZ9xBhGmgp4JwlNB9Xv28bCd-/view?usp=sharing) and put them to the same directory as the code.
+If you want to use our generated SLM patterns, please download them from [Google Drive](https://drive.google.com/file/d/1ONsl4tVlhb57wcf2ebQ9I5jpKf-Yk1ZM/view?usp=sharing) and put them to the same directory as the code.
 
 The current version is implemented using Matlab GPU array (recommended). If you want to run the code with only CPU, you might need to delte the code for GPU selection `g = gpuDevice(1);` and GPU array conversion `gpuArray`.
 
